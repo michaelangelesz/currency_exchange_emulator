@@ -3,7 +3,9 @@ To better understand magic methods and how they are used, we will be creating a 
 
 We will be following [this Replit](https://replit.com/@SD-Team/Python-1044#main.py) for this part of class.
 
-Make sure to install numpy dependency if you are not working on replit - [installing dependencies guide](https://github.com/michaelangelesz/currency_exchange_emulator#using-pip-to-install-needed-dependencies)
+Make sure to install numpy dependency if you are not working on replit: <br />
+[setting up the virtual environment guide](https://github.com/michaelangelesz/currency_exchange_emulator#setting-up-your-virtual-environment) <br />
+[installing dependencies guide](https://github.com/michaelangelesz/currency_exchange_emulator#using-pip-to-install-needed-dependencies)
 
 ## Getting Started
 First, let's explore the code we already have. We have provided you with a base Currency class that contains a class dictionary called currencies , which contains some currency exchange rates, using USD as a base value. Feel free to update this table if you desire. Note that doing so will change the expected output of the program.
