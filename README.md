@@ -86,7 +86,7 @@ Upon doing so, you should see a change in your terminal, it may indicate that yo
 
 Before moving on, we should add a gitignore file and make sure to reference our venv file inside of it.
 
-• Create a .gitignore file (The content inside should simply be the <env_name>)
+• Create a .gitignore file (The content inside should simply be the <env_name>) <br />
 • Alternatively, create a .gitignore file inside your new virtual environment (<env_name>) folder. Make the content inside simply one asterisk ( * ) and your <env_name> will be ignored.
 
 ## Using PIP to install needed dependencies
